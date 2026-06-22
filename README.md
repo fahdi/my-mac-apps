@@ -76,3 +76,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Serious WordPress and PHP development with full code intelligence.
 - **Why you'd want it:** Deep PHP/WordPress refactoring, debugging, and inspection in one IDE.
 
+### RustRover
+*JetBrains' IDE for Rust.*
+
+- **How I use it:** Rust development with cargo integration and analysis.
+- **Why you'd want it:** First-class Rust tooling — completion, debugging, and clippy built in.
+
