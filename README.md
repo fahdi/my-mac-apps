@@ -211,3 +211,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Exploring and querying MongoDB collections visually.
 - **Why you'd want it:** Navigate and query MongoDB without writing shell commands.
 
+
+## Dev & API Utilities
+
+### Postman
+*An API development and testing platform.*
+
+- **How I use it:** Building, testing, and documenting REST APIs.
+- **Why you'd want it:** Design, test, and share API requests without throwaway scripts.
+
