@@ -70,3 +70,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Heavy-duty text munging, log files, and multi-file find-and-replace.
 - **Why you'd want it:** Industrial-strength text editing and powerful grep across folders.
 
+### PhpStorm
+*JetBrains' PHP IDE.*
+
+- **How I use it:** Serious WordPress and PHP development with full code intelligence.
+- **Why you'd want it:** Deep PHP/WordPress refactoring, debugging, and inspection in one IDE.
+
