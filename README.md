@@ -634,3 +634,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Watching WWDC sessions and managing my Apple developer account.
 - **Why you'd want it:** Access Apple developer news, sessions, and account tools.
 
+
+## Finance & Regional (UAE)
+
+### Wio Business
+*Wio Bank business banking app (UAE).*
+
+- **How I use it:** Managing business banking and invoices.
+- **Why you'd want it:** Run a UAE business account and payments from the desktop.
+
