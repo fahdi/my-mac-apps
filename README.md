@@ -94,3 +94,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Trying a faster, distributed editing workflow.
 - **Why you'd want it:** JetBrains intelligence in a lighter, faster-starting package.
 
+### Gateway
+*JetBrains Gateway for remote development.*
+
+- **How I use it:** Running JetBrains IDEs against remote machines and containers.
+- **Why you'd want it:** Code on a powerful remote host while the UI stays local and snappy.
+
