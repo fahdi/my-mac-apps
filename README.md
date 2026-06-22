@@ -376,3 +376,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Client and team communication channels.
 - **Why you'd want it:** Organized team chat with integrations for everything.
 
+### Discord
+*A voice, video, and text chat platform.*
+
+- **How I use it:** Community and developer-group conversations.
+- **Why you'd want it:** Communities and group calls with low friction.
+
