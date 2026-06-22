@@ -232,3 +232,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Comparing and syncing directories and files.
 - **Why you'd want it:** Diff and merge entire folder trees, not just single files.
 
+### Diffchecker
+*A quick text and file difference checker.*
+
+- **How I use it:** Fast one-off comparisons of text snippets.
+- **Why you'd want it:** Spot differences between two blobs of text in seconds.
+
