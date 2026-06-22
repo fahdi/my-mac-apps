@@ -349,3 +349,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Building slide decks and presentations.
 - **Why you'd want it:** Create visually striking presentations, free on macOS.
 
+### WakaTime
+*Automatic time tracking for developers.*
+
+- **How I use it:** Tracking how much time I spend coding per project.
+- **Why you'd want it:** Get automatic, language-level metrics on your coding time.
+
