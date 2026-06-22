@@ -439,3 +439,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Multi-factor authentication for work accounts.
 - **Why you'd want it:** Approve secure logins with a tap.
 
+
+## Media Players & Audio
+
+### Spotify
+*A music and podcast streaming service.*
+
+- **How I use it:** Everyday music and podcasts.
+- **Why you'd want it:** Instant access to a vast music and podcast library.
+
