@@ -184,6 +184,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Running containerized services and reproducible dev stacks.
 - **Why you'd want it:** Package and run any app in an isolated, reproducible container.
 
+### Studio
+*A local WordPress development environment (similar to Local by Flywheel).*
+
+- **How I use it:** Spinning up and managing local WordPress sites as an alternative to Local.
+- **Why you'd want it:** Stand up local WordPress sites quickly without configuring a server stack by hand.
+
 
 ## Database Tools
 
