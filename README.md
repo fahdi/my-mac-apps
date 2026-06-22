@@ -193,3 +193,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** MySQL database management for WordPress projects.
 - **Why you'd want it:** A lightweight, native MySQL client (the Sequel Pro successor).
 
+### SQLPro Studio
+*A universal database client.*
+
+- **How I use it:** Ad-hoc queries across different database engines.
+- **Why you'd want it:** One native client supporting Postgres, MySQL, SQL Server, and Oracle.
+
