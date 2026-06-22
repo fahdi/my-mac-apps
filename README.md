@@ -277,3 +277,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Recording short async walkthroughs for clients.
 - **Why you'd want it:** Send a quick recorded explainer instead of scheduling a meeting.
 
+### iMovie
+*Apple's consumer video editor.*
+
+- **How I use it:** Simple video editing and trimming.
+- **Why you'd want it:** Free, approachable video editing built into macOS.
+
