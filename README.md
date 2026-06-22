@@ -16,3 +16,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Primary browser for development, testing, and Google services.
 - **Why you'd want it:** The most widely-targeted browser, with deep DevTools and a huge extension ecosystem.
 
+### Safari
+*Apple's native macOS web browser.*
+
+- **How I use it:** Cross-browser testing and lightweight, battery-friendly browsing.
+- **Why you'd want it:** The fastest, most power-efficient browser on a Mac, and essential for testing WebKit.
+
