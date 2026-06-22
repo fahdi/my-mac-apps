@@ -325,3 +325,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Writing docs and notes in clean Markdown.
 - **Why you'd want it:** Write Markdown that renders as you type — no split panes.
 
+### MacDown
+*An open-source Markdown editor for macOS.*
+
+- **How I use it:** Quick Markdown drafting with live preview.
+- **Why you'd want it:** A free, no-friction Markdown editor.
+
