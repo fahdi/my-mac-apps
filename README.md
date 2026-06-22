@@ -556,3 +556,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Plotting and analyzing datasets.
 - **Why you'd want it:** Free, powerful scientific graphing — an Origin alternative.
 
+
+## Freelance & Work
+
+### Upwork
+*The Upwork freelancing desktop app.*
+
+- **How I use it:** Managing freelance contracts, messages, and time tracking.
+- **Why you'd want it:** Track work and communicate with clients on the freelance platform.
+
