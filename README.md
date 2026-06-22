@@ -199,3 +199,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Ad-hoc queries across different database engines.
 - **Why you'd want it:** One native client supporting Postgres, MySQL, SQL Server, and Oracle.
 
+### MySQLWorkbench
+*Oracle's official MySQL GUI.*
+
+- **How I use it:** Schema design and administration for MySQL.
+- **Why you'd want it:** Visual schema modeling and full MySQL administration.
+
