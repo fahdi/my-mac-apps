@@ -139,3 +139,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Experimenting with agent-driven coding workflows.
 - **Why you'd want it:** Let AI agents plan and execute multi-step coding tasks.
 
+### Kiro
+*AWS's agentic, spec-driven AI IDE.*
+
+- **How I use it:** Spec-first, agent-assisted development.
+- **Why you'd want it:** Turn specs into working code with a structured, agentic workflow.
+
