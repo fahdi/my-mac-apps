@@ -604,3 +604,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Mapping shortcuts and actions to physical keys.
 - **Why you'd want it:** Trigger macros, apps, and scenes from a tactile button pad.
 
+### logioptionsplus
+*Logitech Options+ — config for Logitech mice and keyboards.*
+
+- **How I use it:** Customizing buttons and gestures on my Logitech devices.
+- **Why you'd want it:** Remap buttons and tune the behavior of Logitech peripherals.
+
