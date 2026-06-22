@@ -121,3 +121,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Research, writing, and coding help throughout the day.
 - **Why you'd want it:** A capable AI assistant one keystroke away, with project and file context.
 
+### ChatGPT
+*OpenAI's AI assistant desktop app.*
+
+- **How I use it:** A second AI opinion and quick generation tasks.
+- **Why you'd want it:** Fast answers and a different model's perspective alongside Claude.
+
