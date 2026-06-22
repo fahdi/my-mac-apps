@@ -505,3 +505,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Fixing metadata and tagging my music library.
 - **Why you'd want it:** Automatically tag music using the MusicBrainz database.
 
+### Tune Sweeper 4
+*A duplicate music finder and cleaner.*
+
+- **How I use it:** Removing duplicate tracks from my library.
+- **Why you'd want it:** Clean up duplicate and broken tracks in your music library.
+
