@@ -466,3 +466,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** A nicer-looking default video player.
 - **Why you'd want it:** A beautiful, macOS-native player built on mpv.
 
+### Elmedia Video Player
+*A versatile macOS media player.*
+
+- **How I use it:** Playing assorted video formats and streams.
+- **Why you'd want it:** Play many formats and stream to and from other devices.
+
