@@ -7,3 +7,12 @@ The GUI applications I keep installed and actually use on macOS — what each on
 Every app below was added in **its own commit**, so the git history reads as the list being assembled one app at a time.
 
 ---
+
+## Browsers
+
+### Google Chrome
+*Google's web browser.*
+
+- **How I use it:** Primary browser for development, testing, and Google services.
+- **Why you'd want it:** The most widely-targeted browser, with deep DevTools and a huge extension ecosystem.
+
