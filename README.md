@@ -307,3 +307,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Project notes, knowledge base, and planning.
 - **Why you'd want it:** Organize notes, docs, and trackers in one flexible workspace.
 
+### Todoist
+*A cross-platform task manager.*
+
+- **How I use it:** Tracking tasks and deadlines across projects.
+- **Why you'd want it:** Capture and organize to-dos that sync everywhere.
+
