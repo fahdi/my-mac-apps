@@ -100,3 +100,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Running JetBrains IDEs against remote machines and containers.
 - **Why you'd want it:** Code on a powerful remote host while the UI stays local and snappy.
 
+### JetBrains Toolbox
+*The manager for all JetBrains IDEs.*
+
+- **How I use it:** Installing, updating, and launching my JetBrains tools.
+- **Why you'd want it:** Keep every JetBrains IDE updated and version-managed from one place.
+
