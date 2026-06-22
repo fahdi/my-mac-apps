@@ -361,3 +361,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Blocking time-wasting sites during deep work.
 - **Why you'd want it:** Force yourself off distractions for a set period — no override.
 
+### Wispr Flow
+*An AI voice dictation tool.*
+
+- **How I use it:** Dictating text and prompts by voice instead of typing.
+- **Why you'd want it:** Speak instead of type, with AI cleaning up the transcript.
+
