@@ -49,3 +49,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** A lightweight, snappy terminal alternative.
 - **Why you'd want it:** Native-speed rendering with minimal config and low input latency.
 
+
+## Code Editors & IDEs
+
+### Visual Studio Code
+*Microsoft's extensible code editor.*
+
+- **How I use it:** General-purpose editing across languages and quick project work.
+- **Why you'd want it:** A free, fast editor with an extension for virtually everything.
+
