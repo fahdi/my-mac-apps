@@ -541,3 +541,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Crawling client sites to find SEO and technical issues.
 - **Why you'd want it:** Crawl any site to surface broken links, metadata, and SEO problems.
 
+
+## Science & Data
+
+### Prism 11
+*GraphPad Prism — scientific graphing and statistics.*
+
+- **How I use it:** Statistical analysis and publication-quality charts.
+- **Why you'd want it:** Run stats and produce clean scientific graphs without coding.
+
