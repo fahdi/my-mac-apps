@@ -172,3 +172,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** A lightweight PHP local environment without containers.
 - **Why you'd want it:** Instant PHP environments with bundled PHP, Nginx, and DNS.
 
+### Docker
+*Docker Desktop for building and running containers.*
+
+- **How I use it:** Running containerized services and reproducible dev stacks.
+- **Why you'd want it:** Package and run any app in an isolated, reproducible container.
+
