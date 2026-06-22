@@ -394,3 +394,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Client calls and meetings.
 - **Why you'd want it:** Reliable video meetings that everyone already has.
 
+### Zoho Mail - Desktop
+*A desktop client for Zoho Mail.*
+
+- **How I use it:** Managing business email.
+- **Why you'd want it:** A dedicated, distraction-light client for Zoho email.
+
