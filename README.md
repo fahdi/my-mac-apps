@@ -112,3 +112,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** iOS/macOS builds, simulators, and required Apple build tooling.
 - **Why you'd want it:** The only way to build, sign, and ship native Apple apps.
 
+
+## AI Assistants & Coding
+
+### Claude
+*Anthropic's AI assistant desktop app.*
+
+- **How I use it:** Research, writing, and coding help throughout the day.
+- **Why you'd want it:** A capable AI assistant one keystroke away, with project and file context.
+
