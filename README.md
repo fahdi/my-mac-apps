@@ -28,3 +28,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Anonymous browsing and checking how sites behave over Tor.
 - **Why you'd want it:** Browse without being tracked or geo-fingerprinted.
 
+
+## Terminals
+
+### iTerm
+*A powerful terminal emulator for macOS (iTerm2).*
+
+- **How I use it:** My main terminal for everyday shell work.
+- **Why you'd want it:** Split panes, search, and automation far beyond the stock Terminal.
+
