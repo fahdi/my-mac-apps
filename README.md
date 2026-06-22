@@ -415,3 +415,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Syncing and sharing files and backups.
 - **Why you'd want it:** Keep files backed up and shared across devices.
 
+### Cyberduck
+*A cloud storage and FTP/SFTP browser.*
+
+- **How I use it:** Transferring files to servers and cloud buckets.
+- **Why you'd want it:** Connect to FTP, SFTP, S3, and more from one Finder-like window.
+
