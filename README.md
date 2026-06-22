@@ -664,3 +664,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Managing map data for Garmin devices.
 - **Why you'd want it:** Organize and update maps for your Garmin GPS.
 
+### Garmin MapInstall
+*Installs maps onto Garmin GPS devices.*
+
+- **How I use it:** Transferring map regions to Garmin hardware.
+- **Why you'd want it:** Load custom map regions onto a Garmin device.
+
