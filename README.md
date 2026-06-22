@@ -598,3 +598,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Snapping and arranging windows with shortcuts.
 - **Why you'd want it:** Move and resize windows with keyboard shortcuts (a classic).
 
+### Elgato Stream Deck
+*Control software for the Elgato Stream Deck.*
+
+- **How I use it:** Mapping shortcuts and actions to physical keys.
+- **Why you'd want it:** Trigger macros, apps, and scenes from a tactile button pad.
+
