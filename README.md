@@ -649,3 +649,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Spending crypto balances via a payment card.
 - **Why you'd want it:** Use crypto for everyday card payments.
 
+### UAEICP
+*UAE ICP smart services (Identity, Citizenship & Ministry of Interior).*
+
+- **How I use it:** UAE residency, ID, and government e-services.
+- **Why you'd want it:** Handle UAE identity and residency paperwork digitally.
+
