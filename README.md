@@ -157,3 +157,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Exploring AI-driven app building.
 - **Why you'd want it:** Build AI-powered apps with a low-code, model-aware platform.
 
+
+## Local Dev Environments
+
+### Local
+*Local by Flywheel — one-click WordPress environments.*
+
+- **How I use it:** Spinning up and managing local WordPress sites for client work.
+- **Why you'd want it:** Stand up a full WordPress dev site in seconds, no manual stack setup.
+
