@@ -127,3 +127,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** A second AI opinion and quick generation tasks.
 - **Why you'd want it:** Fast answers and a different model's perspective alongside Claude.
 
+### Cursor
+*An AI-first fork of VS Code.*
+
+- **How I use it:** AI-assisted coding with inline edits and codebase chat.
+- **Why you'd want it:** Write and refactor code with an AI that understands your whole repo.
+
