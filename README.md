@@ -565,3 +565,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Managing freelance contracts, messages, and time tracking.
 - **Why you'd want it:** Track work and communicate with clients on the freelance platform.
 
+### Workpuls
+*A productivity and time-tracking agent (Insightful).*
+
+- **How I use it:** Tracking time and activity for client transparency.
+- **Why you'd want it:** Automatic time and productivity tracking for accountable remote work.
+
