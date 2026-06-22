@@ -628,3 +628,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Testing pre-release iOS and macOS apps.
 - **Why you'd want it:** Install and test beta builds before public release.
 
+### Developer
+*Apple's Developer app (WWDC sessions and account).*
+
+- **How I use it:** Watching WWDC sessions and managing my Apple developer account.
+- **Why you'd want it:** Access Apple developer news, sessions, and account tools.
+
