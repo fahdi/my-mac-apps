@@ -406,3 +406,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Low-cost calls to landlines and mobiles abroad.
 - **Why you'd want it:** Make inexpensive international calls over the internet.
 
+
+## Cloud, Sync & Network
+
+### Google Drive
+*Google's cloud storage and file sync.*
+
+- **How I use it:** Syncing and sharing files and backups.
+- **Why you'd want it:** Keep files backed up and shared across devices.
+
