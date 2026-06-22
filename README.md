@@ -388,3 +388,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Personal and client messaging.
 - **Why you'd want it:** Reach almost anyone with end-to-end encrypted messaging.
 
+### zoom.us
+*A video conferencing app.*
+
+- **How I use it:** Client calls and meetings.
+- **Why you'd want it:** Reliable video meetings that everyone already has.
+
