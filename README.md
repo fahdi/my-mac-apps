@@ -298,3 +298,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Configuring my RODECaster for podcast and audio recording.
 - **Why you'd want it:** Control RODECaster hardware and presets from your Mac.
 
+
+## Productivity & Writing
+
+### Notion
+*An all-in-one notes, docs, and database workspace.*
+
+- **How I use it:** Project notes, knowledge base, and planning.
+- **Why you'd want it:** Organize notes, docs, and trackers in one flexible workspace.
+
