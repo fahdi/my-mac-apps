@@ -145,3 +145,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Spec-first, agent-assisted development.
 - **Why you'd want it:** Turn specs into working code with a structured, agentic workflow.
 
+### Trae
+*An AI-powered IDE (by ByteDance).*
+
+- **How I use it:** Another AI coding environment to compare against.
+- **Why you'd want it:** Free, capable AI coding assistance built into the editor.
+
