@@ -151,3 +151,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Another AI coding environment to compare against.
 - **Why you'd want it:** Free, capable AI coding assistance built into the editor.
 
+### JitAI
+*An AI application development platform.*
+
+- **How I use it:** Exploring AI-driven app building.
+- **Why you'd want it:** Build AI-powered apps with a low-code, model-aware platform.
+
