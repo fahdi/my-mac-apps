@@ -259,3 +259,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Quick video edits for social content.
 - **Why you'd want it:** Edit and caption videos quickly with templates and effects.
 
+### ScreenFlow
+*A screen recording and video editing app.*
+
+- **How I use it:** Recording tutorials and editing screen captures.
+- **Why you'd want it:** Record your screen and edit it into a polished video in one app.
+
