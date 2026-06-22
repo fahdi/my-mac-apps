@@ -427,3 +427,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Secure access to my machines and servers from anywhere.
 - **Why you'd want it:** Connect all your devices into one private network in minutes.
 
+### Cloudflare WARP
+*Cloudflare's VPN and secure-DNS client.*
+
+- **How I use it:** Faster, more private DNS and a light VPN.
+- **Why you'd want it:** Speed up and secure your connection with one toggle.
+
