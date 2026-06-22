@@ -511,3 +511,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Removing duplicate tracks from my library.
 - **Why you'd want it:** Clean up duplicate and broken tracks in your music library.
 
+
+## Downloads & Torrents
+
+### Download Shuttle
+*A download manager.*
+
+- **How I use it:** Accelerating and organizing large downloads.
+- **Why you'd want it:** Speed up and resume large downloads with multiple connections.
+
