@@ -484,3 +484,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Managing and playing my local music library.
 - **Why you'd want it:** An endlessly configurable player for serious local audio collections.
 
+### FLAC Player+
+*A lossless audio player.*
+
+- **How I use it:** Playing FLAC and other lossless tracks.
+- **Why you'd want it:** Play high-fidelity lossless audio with full tag support.
+
