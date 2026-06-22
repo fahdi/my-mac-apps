@@ -265,3 +265,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Recording tutorials and editing screen captures.
 - **Why you'd want it:** Record your screen and edit it into a polished video in one app.
 
+### OBS
+*Open Broadcaster Software for streaming and recording.*
+
+- **How I use it:** Screen recording and live streaming setups.
+- **Why you'd want it:** Free, professional-grade screen recording and live streaming.
+
