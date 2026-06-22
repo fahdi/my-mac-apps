@@ -22,3 +22,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Cross-browser testing and lightweight, battery-friendly browsing.
 - **Why you'd want it:** The fastest, most power-efficient browser on a Mac, and essential for testing WebKit.
 
+### Tor Browser
+*A privacy-hardened browser that routes traffic through the Tor network.*
+
+- **How I use it:** Anonymous browsing and checking how sites behave over Tor.
+- **Why you'd want it:** Browse without being tracked or geo-fingerprinted.
+
