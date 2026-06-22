@@ -496,3 +496,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Organizing and playing lossless audio.
 - **Why you'd want it:** Manage and stream your lossless music collection.
 
+
+## Music Library Tools
+
+### MusicBrainz Picard
+*An open-source music tagger.*
+
+- **How I use it:** Fixing metadata and tagging my music library.
+- **Why you'd want it:** Automatically tag music using the MusicBrainz database.
+
