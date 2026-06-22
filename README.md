@@ -283,3 +283,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Simple video editing and trimming.
 - **Why you'd want it:** Free, approachable video editing built into macOS.
 
+
+## Audio & Podcasting
+
+### RODE Connect
+*Software mixer for RODE USB microphones.*
+
+- **How I use it:** Routing and mixing mic audio for recording.
+- **Why you'd want it:** Turn a RODE mic into a multi-channel virtual studio.
+
