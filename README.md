@@ -460,3 +460,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Playing any format that other players choke on.
 - **Why you'd want it:** Opens virtually any media file without extra codecs.
 
+### IINA
+*A modern, native macOS media player.*
+
+- **How I use it:** A nicer-looking default video player.
+- **Why you'd want it:** A beautiful, macOS-native player built on mpv.
+
