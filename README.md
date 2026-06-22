@@ -454,3 +454,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Listening to audiobooks.
 - **Why you'd want it:** A huge audiobook library that syncs across devices.
 
+### VLC
+*A free, play-anything media player.*
+
+- **How I use it:** Playing any format that other players choke on.
+- **Why you'd want it:** Opens virtually any media file without extra codecs.
+
