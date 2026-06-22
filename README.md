@@ -271,3 +271,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Screen recording and live streaming setups.
 - **Why you'd want it:** Free, professional-grade screen recording and live streaming.
 
+### Loom
+*A quick screen-and-camera video messaging tool.*
+
+- **How I use it:** Recording short async walkthroughs for clients.
+- **Why you'd want it:** Send a quick recorded explainer instead of scheduling a meeting.
+
