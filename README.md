@@ -187,3 +187,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Browsing and editing Postgres/MySQL data quickly.
 - **Why you'd want it:** A fast, good-looking client for nearly every database.
 
+### Sequel Ace
+*A free MySQL/MariaDB GUI for macOS.*
+
+- **How I use it:** MySQL database management for WordPress projects.
+- **Why you'd want it:** A lightweight, native MySQL client (the Sequel Pro successor).
+
