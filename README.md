@@ -331,3 +331,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Quick Markdown drafting with live preview.
 - **Why you'd want it:** A free, no-friction Markdown editor.
 
+### Pages
+*Apple's word processor.*
+
+- **How I use it:** Documents and proposals that need nice formatting.
+- **Why you'd want it:** Polished documents with Apple's clean templates, free on every Mac.
+
