@@ -292,3 +292,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Routing and mixing mic audio for recording.
 - **Why you'd want it:** Turn a RODE mic into a multi-channel virtual studio.
 
+### RODECaster App
+*Companion app for the RODECaster audio interface.*
+
+- **How I use it:** Configuring my RODECaster for podcast and audio recording.
+- **Why you'd want it:** Control RODECaster hardware and presets from your Mac.
+
