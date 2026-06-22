@@ -178,3 +178,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Running containerized services and reproducible dev stacks.
 - **Why you'd want it:** Package and run any app in an isolated, reproducible container.
 
+
+## Database Tools
+
+### TablePlus
+*A modern, native database GUI.*
+
+- **How I use it:** Browsing and editing Postgres/MySQL data quickly.
+- **Why you'd want it:** A fast, good-looking client for nearly every database.
+
