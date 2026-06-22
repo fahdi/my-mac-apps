@@ -478,3 +478,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Listening to local music, including hi-res files.
 - **Why you'd want it:** Audiophile-grade playback with gapless, lossless support.
 
+### foobar2000
+*A lightweight, highly customizable audio player.*
+
+- **How I use it:** Managing and playing my local music library.
+- **Why you'd want it:** An endlessly configurable player for serious local audio collections.
+
