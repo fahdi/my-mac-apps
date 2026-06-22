@@ -421,3 +421,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Transferring files to servers and cloud buckets.
 - **Why you'd want it:** Connect to FTP, SFTP, S3, and more from one Finder-like window.
 
+### Tailscale
+*A zero-config mesh VPN built on WireGuard.*
+
+- **How I use it:** Secure access to my machines and servers from anywhere.
+- **Why you'd want it:** Connect all your devices into one private network in minutes.
+
