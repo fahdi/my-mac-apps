@@ -433,3 +433,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Faster, more private DNS and a light VPN.
 - **Why you'd want it:** Speed up and secure your connection with one toggle.
 
+### Okta Verify
+*An identity and 2FA verification app.*
+
+- **How I use it:** Multi-factor authentication for work accounts.
+- **Why you'd want it:** Approve secure logins with a tap.
+
