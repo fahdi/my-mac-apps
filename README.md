@@ -37,3 +37,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** My main terminal for everyday shell work.
 - **Why you'd want it:** Split panes, search, and automation far beyond the stock Terminal.
 
+### Warp
+*A modern, Rust-based terminal with AI and IDE-like features.*
+
+- **How I use it:** Command blocks, AI command help, and a nicer editing experience.
+- **Why you'd want it:** A terminal that feels like an editor — blocks, autocomplete, and built-in AI.
+
