@@ -106,3 +106,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Installing, updating, and launching my JetBrains tools.
 - **Why you'd want it:** Keep every JetBrains IDE updated and version-managed from one place.
 
+### Xcode
+*Apple's IDE for macOS and iOS development.*
+
+- **How I use it:** iOS/macOS builds, simulators, and required Apple build tooling.
+- **Why you'd want it:** The only way to build, sign, and ship native Apple apps.
+
