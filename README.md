@@ -58,3 +58,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** General-purpose editing across languages and quick project work.
 - **Why you'd want it:** A free, fast editor with an extension for virtually everything.
 
+### Sublime Text
+*A lightning-fast native text editor.*
+
+- **How I use it:** Quick edits and large-file work where speed matters.
+- **Why you'd want it:** Opens and searches huge files instantly, with near-zero startup time.
+
