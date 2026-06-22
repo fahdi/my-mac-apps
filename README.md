@@ -238,3 +238,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Fast one-off comparisons of text snippets.
 - **Why you'd want it:** Spot differences between two blobs of text in seconds.
 
+
+## Design & Creative
+
+### Figma
+*A collaborative interface design tool.*
+
+- **How I use it:** UI/UX design and reviewing client mockups.
+- **Why you'd want it:** Design and prototype interfaces in the collaborative industry standard.
+
