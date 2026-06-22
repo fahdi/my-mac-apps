@@ -526,3 +526,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Downloading torrents through the browser.
 - **Why you'd want it:** Manage torrents from a simple web interface.
 
+### WebTorrent
+*A streaming torrent client.*
+
+- **How I use it:** Streaming torrent media while it downloads.
+- **Why you'd want it:** Stream torrent content instantly instead of waiting.
+
