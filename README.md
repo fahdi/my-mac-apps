@@ -205,3 +205,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Schema design and administration for MySQL.
 - **Why you'd want it:** Visual schema modeling and full MySQL administration.
 
+### MongoDB Compass
+*The official MongoDB GUI.*
+
+- **How I use it:** Exploring and querying MongoDB collections visually.
+- **Why you'd want it:** Navigate and query MongoDB without writing shell commands.
+
