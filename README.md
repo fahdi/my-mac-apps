@@ -472,3 +472,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Playing assorted video formats and streams.
 - **Why you'd want it:** Play many formats and stream to and from other devices.
 
+### VOX
+*A high-quality audio player for macOS.*
+
+- **How I use it:** Listening to local music, including hi-res files.
+- **Why you'd want it:** Audiophile-grade playback with gapless, lossless support.
+
