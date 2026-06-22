@@ -571,3 +571,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Tracking time and activity for client transparency.
 - **Why you'd want it:** Automatic time and productivity tracking for accountable remote work.
 
+
+## Utilities & System
+
+### CleanMyMac_5
+*A macOS cleanup and maintenance app.*
+
+- **How I use it:** Clearing junk, caches, and freeing disk space.
+- **Why you'd want it:** Reclaim disk space and tidy your Mac without hunting manually.
+
