@@ -166,3 +166,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Spinning up and managing local WordPress sites for client work.
 - **Why you'd want it:** Stand up a full WordPress dev site in seconds, no manual stack setup.
 
+### Herd
+*Laravel Herd — a fast native PHP dev environment.*
+
+- **How I use it:** A lightweight PHP local environment without containers.
+- **Why you'd want it:** Instant PHP environments with bundled PHP, Nginx, and DNS.
+
