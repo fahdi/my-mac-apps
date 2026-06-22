@@ -88,3 +88,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Querying and managing multiple databases from one tool.
 - **Why you'd want it:** One polished client for Postgres, MySQL, Mongo, and more, with smart SQL.
 
+### Fleet
+*JetBrains' lightweight, next-generation IDE.*
+
+- **How I use it:** Trying a faster, distributed editing workflow.
+- **Why you'd want it:** JetBrains intelligence in a lighter, faster-starting package.
+
