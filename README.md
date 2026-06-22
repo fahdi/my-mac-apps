@@ -532,3 +532,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Streaming torrent media while it downloads.
 - **Why you'd want it:** Stream torrent content instantly instead of waiting.
 
+
+## SEO & Web
+
+### Screaming Frog SEO Spider
+*A website crawler for SEO audits.*
+
+- **How I use it:** Crawling client sites to find SEO and technical issues.
+- **Why you'd want it:** Crawl any site to surface broken links, metadata, and SEO problems.
+
