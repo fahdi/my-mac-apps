@@ -610,3 +610,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Customizing buttons and gestures on my Logitech devices.
 - **Why you'd want it:** Remap buttons and tune the behavior of Logitech peripherals.
 
+### LidAngleSensor
+*A novelty utility that reads the MacBook lid angle.*
+
+- **How I use it:** A fun experiment with the Mac's hidden lid sensor.
+- **Why you'd want it:** A quirky peek at undocumented hardware sensors.
+
