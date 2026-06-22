@@ -670,3 +670,16 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Transferring map regions to Garmin hardware.
 - **Why you'd want it:** Load custom map regions onto a Garmin device.
 
+---
+
+## How this list was made
+
+Apps were inventoried from `/Applications` and `~/Applications`, with usage cross-checked against Spotlight's last-opened metadata and bundle identifiers:
+
+```bash
+mdls -name kMDItemLastUsedDate -name kMDItemCFBundleIdentifier /Applications/*.app
+```
+
+Apple system built-ins, background helpers, URL-handler stubs, web-link shortcuts, and duplicate bundles were excluded to keep this to apps I actually choose to use.
+
+Maintained by [@fahdi](https://github.com/fahdi).
