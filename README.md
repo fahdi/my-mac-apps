@@ -355,3 +355,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Tracking how much time I spend coding per project.
 - **Why you'd want it:** Get automatic, language-level metrics on your coding time.
 
+### SelfControl
+*A focus app that blocks distracting sites.*
+
+- **How I use it:** Blocking time-wasting sites during deep work.
+- **Why you'd want it:** Force yourself off distractions for a set period — no override.
+
