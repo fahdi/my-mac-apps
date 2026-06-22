@@ -580,3 +580,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Clearing junk, caches, and freeing disk space.
 - **Why you'd want it:** Reclaim disk space and tidy your Mac without hunting manually.
 
+### The Unarchiver
+*A versatile archive extraction tool.*
+
+- **How I use it:** Unpacking zip, rar, 7z, and other archives.
+- **Why you'd want it:** Extract almost any archive format Finder can't handle.
+
