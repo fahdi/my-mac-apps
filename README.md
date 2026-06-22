@@ -157,6 +157,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Exploring AI-driven app building.
 - **Why you'd want it:** Build AI-powered apps with a low-code, model-aware platform.
 
+### Anna
+*A "universal AI agent" companion with persistent memory that syncs across devices (by TalentSec).*
+
+- **How I use it:** A personal AI assistant that remembers context and stays with me across devices and chat apps.
+- **Why you'd want it:** An AI partner that never forgets and stays consistent across desktop, mobile, and chat apps.
+
 
 ## Local Dev Environments
 
