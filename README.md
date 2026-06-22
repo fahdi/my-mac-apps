@@ -592,3 +592,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Custom resolutions, scaling, and managing external monitors.
 - **Why you'd want it:** Unlock custom resolutions, HiDPI, and per-display controls.
 
+### Spectacle
+*A keyboard-driven window manager.*
+
+- **How I use it:** Snapping and arranging windows with shortcuts.
+- **Why you'd want it:** Move and resize windows with keyboard shortcuts (a classic).
+
