@@ -43,3 +43,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Command blocks, AI command help, and a nicer editing experience.
 - **Why you'd want it:** A terminal that feels like an editor — blocks, autocomplete, and built-in AI.
 
+### Ghostty
+*A fast, GPU-accelerated terminal emulator.*
+
+- **How I use it:** A lightweight, snappy terminal alternative.
+- **Why you'd want it:** Native-speed rendering with minimal config and low input latency.
+
