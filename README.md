@@ -133,3 +133,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** AI-assisted coding with inline edits and codebase chat.
 - **Why you'd want it:** Write and refactor code with an AI that understands your whole repo.
 
+### Antigravity
+*Google's agentic AI development environment.*
+
+- **How I use it:** Experimenting with agent-driven coding workflows.
+- **Why you'd want it:** Let AI agents plan and execute multi-step coding tasks.
+
