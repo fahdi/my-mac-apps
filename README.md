@@ -622,3 +622,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Uploading builds and assets to App Store Connect.
 - **Why you'd want it:** Deliver app builds and media to Apple without opening Xcode.
 
+### TestFlight
+*Apple's beta-testing app.*
+
+- **How I use it:** Testing pre-release iOS and macOS apps.
+- **Why you'd want it:** Install and test beta builds before public release.
+
