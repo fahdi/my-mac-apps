@@ -382,3 +382,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Community and developer-group conversations.
 - **Why you'd want it:** Communities and group calls with low friction.
 
+### WhatsApp
+*A cross-platform messaging app.*
+
+- **How I use it:** Personal and client messaging.
+- **Why you'd want it:** Reach almost anyone with end-to-end encrypted messaging.
+
