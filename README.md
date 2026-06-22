@@ -586,3 +586,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Unpacking zip, rar, 7z, and other archives.
 - **Why you'd want it:** Extract almost any archive format Finder can't handle.
 
+### BetterDisplay
+*A display management and resolution utility.*
+
+- **How I use it:** Custom resolutions, scaling, and managing external monitors.
+- **Why you'd want it:** Unlock custom resolutions, HiDPI, and per-display controls.
+
