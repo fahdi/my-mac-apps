@@ -319,3 +319,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Proofreading client communication and content.
 - **Why you'd want it:** Catch grammar and tone issues as you write, anywhere on the Mac.
 
+### Typora
+*A minimal, live-preview Markdown editor.*
+
+- **How I use it:** Writing docs and notes in clean Markdown.
+- **Why you'd want it:** Write Markdown that renders as you type — no split panes.
+
