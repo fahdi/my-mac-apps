@@ -64,3 +64,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Quick edits and large-file work where speed matters.
 - **Why you'd want it:** Opens and searches huge files instantly, with near-zero startup time.
 
+### BBEdit
+*A veteran macOS text and code editor.*
+
+- **How I use it:** Heavy-duty text munging, log files, and multi-file find-and-replace.
+- **Why you'd want it:** Industrial-strength text editing and powerful grep across folders.
+
