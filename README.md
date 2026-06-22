@@ -550,3 +550,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Statistical analysis and publication-quality charts.
 - **Why you'd want it:** Run stats and produce clean scientific graphs without coding.
 
+### LabPlot
+*An open-source scientific plotting and data analysis app (KDE).*
+
+- **How I use it:** Plotting and analyzing datasets.
+- **Why you'd want it:** Free, powerful scientific graphing — an Origin alternative.
+
