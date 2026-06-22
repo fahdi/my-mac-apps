@@ -313,3 +313,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Tracking tasks and deadlines across projects.
 - **Why you'd want it:** Capture and organize to-dos that sync everywhere.
 
+### Grammarly Desktop
+*An AI writing and grammar assistant.*
+
+- **How I use it:** Proofreading client communication and content.
+- **Why you'd want it:** Catch grammar and tone issues as you write, anywhere on the Mac.
+
