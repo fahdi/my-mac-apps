@@ -448,3 +448,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Everyday music and podcasts.
 - **Why you'd want it:** Instant access to a vast music and podcast library.
 
+### Audible
+*Amazon's audiobook app.*
+
+- **How I use it:** Listening to audiobooks.
+- **Why you'd want it:** A huge audiobook library that syncs across devices.
+
