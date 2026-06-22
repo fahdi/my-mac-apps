@@ -490,3 +490,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Playing FLAC and other lossless tracks.
 - **Why you'd want it:** Play high-fidelity lossless audio with full tag support.
 
+### Flacbox
+*A FLAC and hi-res audio player and organizer.*
+
+- **How I use it:** Organizing and playing lossless audio.
+- **Why you'd want it:** Manage and stream your lossless music collection.
+
