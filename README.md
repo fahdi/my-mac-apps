@@ -247,3 +247,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** UI/UX design and reviewing client mockups.
 - **Why you'd want it:** Design and prototype interfaces in the collaborative industry standard.
 
+### Canva
+*An easy graphic design platform.*
+
+- **How I use it:** Quick marketing graphics and social images.
+- **Why you'd want it:** Produce polished graphics fast without a design background.
+
