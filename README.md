@@ -220,3 +220,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Building, testing, and documenting REST APIs.
 - **Why you'd want it:** Design, test, and share API requests without throwaway scripts.
 
+### Kaleidoscope
+*A premium file and image diff/merge tool.*
+
+- **How I use it:** Reviewing complex diffs and merges visually.
+- **Why you'd want it:** The clearest way to compare text, images, and folders side by side.
+
