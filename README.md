@@ -367,3 +367,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Dictating text and prompts by voice instead of typing.
 - **Why you'd want it:** Speak instead of type, with AI cleaning up the transcript.
 
+
+## Communication
+
+### Slack
+*A team messaging and collaboration app.*
+
+- **How I use it:** Client and team communication channels.
+- **Why you'd want it:** Organized team chat with integrations for everything.
+
