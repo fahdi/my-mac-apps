@@ -1,6 +1,6 @@
 # 🖥️ My Mac Apps
 
-The GUI applications I keep installed and actually use on macOS — what each one is, how I use it, and a one-line reason you might want it too.
+The GUI applications I keep installed and actually use on macOS - what each one is, how I use it, and a one-line reason you might want it too.
 
 > A **curated** list: real third-party apps, with Apple system built-ins, background/URL-handler stubs, web-link shortcuts, and duplicate bundles left out. For my command-line Homebrew tools, see [homebrew-toolbox](https://github.com/fahdi/homebrew-toolbox).
 
@@ -41,7 +41,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 *A modern, Rust-based terminal with AI and IDE-like features.*
 
 - **How I use it:** Command blocks, AI command help, and a nicer editing experience.
-- **Why you'd want it:** A terminal that feels like an editor — blocks, autocomplete, and built-in AI.
+- **Why you'd want it:** A terminal that feels like an editor - blocks, autocomplete, and built-in AI.
 
 ### Ghostty
 *A fast, GPU-accelerated terminal emulator.*
@@ -80,7 +80,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 *JetBrains' IDE for Rust.*
 
 - **How I use it:** Rust development with cargo integration and analysis.
-- **Why you'd want it:** First-class Rust tooling — completion, debugging, and clippy built in.
+- **Why you'd want it:** First-class Rust tooling - completion, debugging, and clippy built in.
 
 ### DataGrip
 *JetBrains' database IDE.*
@@ -167,13 +167,13 @@ Every app below was added in **its own commit**, so the git history reads as the
 ## Local Dev Environments
 
 ### Local
-*Local by Flywheel — one-click WordPress environments.*
+*Local by Flywheel - one-click WordPress environments.*
 
 - **How I use it:** Spinning up and managing local WordPress sites for client work.
 - **Why you'd want it:** Stand up a full WordPress dev site in seconds, no manual stack setup.
 
 ### Herd
-*Laravel Herd — a fast native PHP dev environment.*
+*Laravel Herd - a fast native PHP dev environment.*
 
 - **How I use it:** A lightweight PHP local environment without containers.
 - **Why you'd want it:** Instant PHP environments with bundled PHP, Nginx, and DNS.
@@ -335,7 +335,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 *A minimal, live-preview Markdown editor.*
 
 - **How I use it:** Writing docs and notes in clean Markdown.
-- **Why you'd want it:** Write Markdown that renders as you type — no split panes.
+- **Why you'd want it:** Write Markdown that renders as you type - no split panes.
 
 ### MacDown
 *An open-source Markdown editor for macOS.*
@@ -371,7 +371,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 *A focus app that blocks distracting sites.*
 
 - **How I use it:** Blocking time-wasting sites during deep work.
-- **Why you'd want it:** Force yourself off distractions for a set period — no override.
+- **Why you'd want it:** Force yourself off distractions for a set period - no override.
 
 ### Wispr Flow
 *An AI voice dictation tool.*
@@ -557,7 +557,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 ## Science & Data
 
 ### Prism 11
-*GraphPad Prism — scientific graphing and statistics.*
+*GraphPad Prism - scientific graphing and statistics.*
 
 - **How I use it:** Statistical analysis and publication-quality charts.
 - **Why you'd want it:** Run stats and produce clean scientific graphs without coding.
@@ -566,7 +566,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 *An open-source scientific plotting and data analysis app (KDE).*
 
 - **How I use it:** Plotting and analyzing datasets.
-- **Why you'd want it:** Free, powerful scientific graphing — an Origin alternative.
+- **Why you'd want it:** Free, powerful scientific graphing - an Origin alternative.
 
 
 ## Freelance & Work
@@ -617,7 +617,7 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **Why you'd want it:** Trigger macros, apps, and scenes from a tactile button pad.
 
 ### logioptionsplus
-*Logitech Options+ — config for Logitech mice and keyboards.*
+*Logitech Options+ - config for Logitech mice and keyboards.*
 
 - **How I use it:** Customizing buttons and gestures on my Logitech devices.
 - **Why you'd want it:** Remap buttons and tune the behavior of Logitech peripherals.
