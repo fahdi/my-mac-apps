@@ -337,3 +337,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Documents and proposals that need nice formatting.
 - **Why you'd want it:** Polished documents with Apple's clean templates, free on every Mac.
 
+### Numbers
+*Apple's spreadsheet app.*
+
+- **How I use it:** Lightweight spreadsheets and quick calculations.
+- **Why you'd want it:** Approachable, good-looking spreadsheets without Excel.
+
