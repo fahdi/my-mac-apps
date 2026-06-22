@@ -520,3 +520,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Accelerating and organizing large downloads.
 - **Why you'd want it:** Speed up and resume large downloads with multiple connections.
 
+### uTorrent Web
+*A browser-based BitTorrent client.*
+
+- **How I use it:** Downloading torrents through the browser.
+- **Why you'd want it:** Manage torrents from a simple web interface.
+
