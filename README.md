@@ -655,3 +655,12 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** UAE residency, ID, and government e-services.
 - **Why you'd want it:** Handle UAE identity and residency paperwork digitally.
 
+
+## Maps & GPS
+
+### Garmin MapManager
+*Manages maps for Garmin GPS devices.*
+
+- **How I use it:** Managing map data for Garmin devices.
+- **Why you'd want it:** Organize and update maps for your Garmin GPS.
+
