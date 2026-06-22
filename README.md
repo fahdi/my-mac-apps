@@ -643,3 +643,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Managing business banking and invoices.
 - **Why you'd want it:** Run a UAE business account and payments from the desktop.
 
+### RedotPay
+*A crypto-backed payment card app.*
+
+- **How I use it:** Spending crypto balances via a payment card.
+- **Why you'd want it:** Use crypto for everyday card payments.
+
