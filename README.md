@@ -343,3 +343,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Lightweight spreadsheets and quick calculations.
 - **Why you'd want it:** Approachable, good-looking spreadsheets without Excel.
 
+### Keynote
+*Apple's presentation app.*
+
+- **How I use it:** Building slide decks and presentations.
+- **Why you'd want it:** Create visually striking presentations, free on macOS.
+
