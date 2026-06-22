@@ -253,3 +253,9 @@ Every app below was added in **its own commit**, so the git history reads as the
 - **How I use it:** Quick marketing graphics and social images.
 - **Why you'd want it:** Produce polished graphics fast without a design background.
 
+### CapCut
+*A consumer video editor.*
+
+- **How I use it:** Quick video edits for social content.
+- **Why you'd want it:** Edit and caption videos quickly with templates and effects.
+
